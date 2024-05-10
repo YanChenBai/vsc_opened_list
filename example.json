@@ -1,0 +1,1219 @@
+{
+  "entries": [
+    {
+      "folderUri": "file:///c%3A/project_dir/sysinfo"
+    },
+    {
+      "folderUri": "file:///c%3A/project_dir/ink-official"
+    },
+    {
+      "folderUri": "file:///c%3A/project_dir/blive-monitor"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/blive-monitor-next"
+    },
+    {
+      "folderUri": "file:///c%3A/project_dir/live-info-cast"
+    },
+    {
+      "folderUri": "file:///c%3A/project_dir/vira_mvp"
+    },
+    {
+      "folderUri": "file:///c%3A/project_dir/rust"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/win32api-test"
+    },
+    {
+      "folderUri": "file:///c%3A/project_dir/vite-project"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/vite-project"
+    },
+    {
+      "folderUri": "file:///c%3A/project_dir/vtb-singer"
+    },
+    {
+      "folderUri": "file:///c%3A/project_dir/blive-monitor-send"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/blive-monitor"
+    },
+    {
+      "folderUri": "file:///d%3A/byc_software/TVFISH%20Monitor"
+    },
+    {
+      "folderUri": "file:///c%3A/project_dir/blive-push"
+    },
+    {
+      "folderUri": "file:///c%3A/project_dir/maho-ui"
+    },
+    {
+      "folderUri": "file:///c%3A/project_dir/vtb-singer-api"
+    },
+    {
+      "folderUri": "file:///c%3A/Users/Admin/PycharmProjects/look_for_roles/yolov5"
+    },
+    {
+      "folderUri": "file:///c%3A/project_dir/vsinger-web"
+    },
+    {
+      "folderUri": "file:///c%3A/project_dir/danmu-scroll-show"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/os-info"
+    },
+    {
+      "folderUri": "file:///d%3A/phpstudy_pro/Extensions/Nginx1.16.1/conf"
+    },
+    {
+      "folderUri": "file:///c%3A/project_dir/my-test-app"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/otherside-wiki/otherside-wiki-api"
+    },
+    {
+      "folderUri": "file:///c%3A/project_dir/test_pak"
+    },
+    {
+      "folderUri": "file:///c%3A/project_dir/metamask-sdk-main/packages/examples/vuejs"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/otherside-wiki/otherside-wiki-web"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/otherside-wiki"
+    },
+    {
+      "folderUri": "file:///c%3A/project_dir/mocker-vue"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/vsinger-web"
+    },
+    {
+      "folderUri": "file:///c%3A/project_dir/sound"
+    },
+    {
+      "folderUri": "vscode-vfs://github/vuejs/vue",
+      "label": "vuejs/vue [GitHub]"
+    },
+    {
+      "folderUri": "vscode-vfs://github/cuixiaorui/mini-vue",
+      "label": "cuixiaorui/mini-vue [GitHub]"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/new-project"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/web3-connect"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/system-watcher"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/maho-chat-ui"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/system-watcher-web"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/chatweb"
+    },
+    {
+      "folderUri": "file:///d%3A/Project/nft_demo"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/chatgpt"
+    },
+    {
+      "folderUri": "file:///d%3A/Project/nft_demo/src/views"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/test_game"
+    },
+    {
+      "folderUri": "file:///d%3A/byc_software/apktool_new"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/new_project"
+    },
+    {
+      "folderUri": "file:///d%3A/XiaoBai"
+    },
+    {
+      "folderUri": "file:///c%3A/Users/Admin/Desktop"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/new-project-server"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/test-rtp"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/electron-inversify"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/video-renderer"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/vtb-singer"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/test-p"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/tvfish-monitor"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/test-vue-sfc"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/tv-fish"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/maho-danmaku"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/test-app"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/tauri-app"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/blive-music"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/kubeJS"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/mc_forge_translate"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/electron-app"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/maho-files-updater"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/node-adb-scrcpy"
+    },
+    {
+      "folderUri": "file:///d%3A/mc_1.20.1"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/maho-danmaku-new"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/sound-prism-client"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/sound-prism"
+    },
+    {
+      "folderUri": "file:///c%3A/Users/Admin/maho-collage"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/maho-danmaku-tcp"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/electron-ground-glass"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/maho-blive-music"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/maho-danmaku-server"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/maho-danmaku-ws"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/maho-electron"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/blive-test"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/electron-vue3-vite-template"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/danmu-electron"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/danmu-count"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/web-msg/web-msg"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/mahou-chat"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/rss-reader"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/axios"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/gotify-prism"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/ai-chat-api"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/limit-start-page"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/dy-c"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/qq-bot"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/everythingSdk"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/qqbot"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/blive-push-web"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/blive-message-listener-main"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/ai-chat"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/origin-start/origin-start-web"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/blive-ws"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/text-markup"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/bdanmu-connect"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/sxpy"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/qBittorrentDown"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/wujie-test"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/blive-tools"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/vue-dnd"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/test-wuj"
+    },
+    {
+      "folderUri": "file:///c%3A/Users/Admin/Downloads/js-demo"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/blive-push/blive-push-api"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/bili_video_win"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/bili-tools"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/bili-live-push"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/bili-danmu-rec"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/bili-live-start-push"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/form_constructor"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/test-douyu-api"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/cq-reader"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/cqhttp-msg-read"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/douyu_danmu"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/vits-simple-api"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/tvfish-monitor/src/config"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/bili-tv"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/electron-build"
+    },
+    {
+      "folderUri": "file:///d%3A/sound_sound"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/tvfish-monitor-master"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/tvfish-monitor-new"
+    },
+    {
+      "folderUri": "file:///d%3A/"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/live"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/tv-fish-api/tvfish-api"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/tv-fish-player"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/video-push"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/sd_ai/stable-diffusion-webui"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/transaction-auto"
+    },
+    {
+      "workspace": {
+        "id": "e9129975d8e3ea0d36b5ff771f2cd58c",
+        "configPath": "file:///d%3A/project_dir/transaction-auto/src/apis/transaction-auto.code-workspace"
+      },
+      "label": "D:\\project_dir\\transaction-auto\\src\\apis\\transaction-auto (工作区)"
+    },
+    {
+      "folderUri": "file:///d%3A/izib-talks/izib-talks-web"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/bili-danmu-rec-web"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/pineapple-notes"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/otherside-wiki/test-tools-map"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/test-mongodb"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/test-three.js"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/tvfish-electron"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/test-douyu"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/tv-fish-api"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/oicq-read"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/go-cqhttp-template"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/go-cqhttp-template/web"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/mikan-rss-dowm"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/test"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/mikan-rss-dowm/api"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/clipboard-event"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/otherside-wiki-proxy"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/mikan-api"
+    },
+    {
+      "workspace": {
+        "id": "8bbff2eb59249d6cb5a97353b84e0664",
+        "configPath": "file:///d%3A/project_dir/mikan-rss-dowm/mikan-rss-dowm-api.code-workspace"
+      }
+    },
+    {
+      "workspace": {
+        "id": "9413e5f49657ddeaf2d1b00d35a4e04f",
+        "configPath": "file:///d%3A/project_dir/mikan-rss-dowm/mikan-rss-dowm/.vscode/mikan-rss-dowm-api.code-workspace"
+      }
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/bililive-qqpush"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/qwerty-learner-add-api"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/qwerty-learner"
+    },
+    {
+      "workspace": {
+        "id": "0930ce00919063a8c8b4fe4ad8fbf66a",
+        "configPath": "file:///c%3A/Users/Admin/Desktop/blurwatch_web.code-workspace"
+      },
+      "label": "C:\\Users\\Admin\\Desktop\\blurwatch_web (工作区)"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/weiqi"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/test-ws"
+    },
+    {
+      "folderUri": "file:///d%3A/Project/shoppe/store-vue"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/blurwatch/blurwatch_web"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/blurwatch"
+    },
+    {
+      "folderUri": "file:///c%3A/Users/Admin/Desktop/blurwatch"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/nft_monitor"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/so-vits-svc"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/happy-chat"
+    },
+    {
+      "folderUri": "file:///d%3A/project_dir/vue3-unplugin-rmti-template"
+    },
+    {
+      "folderUri": "file:///d%3A/NewProJectDir/electron-vue3-vite"
+    },
+    {
+      "folderUri": "file:///d%3A/ProjectDir/sbt"
+    },
+    {
+      "folderUri": "file:///c%3A/Users/Admin/Desktop/new"
+    },
+    {
+      "folderUri": "file:///d%3A/ProjectDir/ntf_deom_newWallect"
+    },
+    {
+      "folderUri": "file:///d%3A/ProjectDir/nft_demo_old"
+    },
+    {
+      "workspace": {
+        "id": "45bb8cabf619aa74234d262728bd6f19",
+        "configPath": "file:///c%3A/Users/Admin/Desktop/address_bscTestnet/workspace.code-workspace"
+      },
+      "label": "C:\\Users\\Admin\\Desktop\\address_bscTestnet\\workspace (工作区)"
+    },
+    {
+      "folderUri": "file:///d%3A/%E5%B0%8F%E7%B1%B3%E4%BA%91%E7%9B%98/%E6%96%87%E4%BB%B6%E8%B5%84%E6%96%99/%E5%BD%92%E6%A1%A3"
+    },
+    {
+      "folderUri": "file:///d%3A/ProjectDir/chain"
+    },
+    {
+      "folderUri": "file:///c%3A/Users/Admin/Desktop/%E5%BD%92%E6%A1%A3"
+    },
+    {
+      "folderUri": "file:///c%3A/Users/Admin/Desktop/%E5%BD%92%E6%A1%A3/__MACOSX"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/cli.js"
+    },
+    {
+      "fileUri": "file:///c%3A/project_dir/ink-official/src/components/sections/Gallery.vue"
+    },
+    {
+      "fileUri": "file:///c%3A/project_dir/ink-official/src/components/sections/comics/ShowInfo.vue"
+    },
+    {
+      "fileUri": "file:///c%3A/project_dir/ink-official/src/components/sections/UpcomingSection.vue"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Documents/NetSarang%20Computer/7/Xftp/Temporary/cookiecloud%20%5B5%5D.conf"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Documents/NetSarang%20Computer/7/Xftp/Temporary/cookiecloud.conf"
+    },
+    {
+      "fileUri": "file:///c%3A/project_dir/ink-official/src/components/sections/GallerySection.vue"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Documents/NetSarang%20Computer/7/Xftp/Temporary/vsinger"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Documents/NetSarang%20Computer/7/Xftp/Temporary/default%20%5B2%5D"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Documents/NetSarang%20Computer/7/Xftp/Temporary/vsinger.conf"
+    },
+    {
+      "fileUri": "file:///d%3A/byc_software/nps/conf/npc.conf"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/vite-project/dist/index.html"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Documents/NetSarang%20Computer/7/Xftp/Temporary/default"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/vsinger-web/src/pages/%5Brid%5D.vue"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/vite-project/src/views/HomeView.vue"
+    },
+    {
+      "fileUri": "file:///f%3A/Downloads/pan%20%281%29.svg"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/web3-connect/src/components/WalletInfo.vue"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/web3-connect/src/components/ConnectModal.vue"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/web3-connect/src/components/Index/Comments.vue"
+    },
+    {
+      "fileUri": "file:///d%3A/Project/nft_demo/src/views/IndexView.vue"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/clearDynamicLottery.ts"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/test-p/package.json"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/vite-express-project/vite.config.ts"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/vite-express-project/src/client/main.ts"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/vite-express-project/src/server/main.ts"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/test.js"
+    },
+    {
+      "fileUri": "file:///f%3A/Downloads/Close%20%284%29.svg"
+    },
+    {
+      "fileUri": "file:///f%3A/Downloads/Close%20%283%29.svg"
+    },
+    {
+      "fileUri": "file:///f%3A/Downloads/Close%20%282%29.svg"
+    },
+    {
+      "fileUri": "file:///d%3A/phpstudy_pro/Extensions/Nginx1.16.1/conf/nginx.conf"
+    },
+    {
+      "fileUri": "file:///d%3A/byc_software/nginx-1.22.1/conf/nginx.conf"
+    },
+    {
+      "fileUri": "file:///d%3A/mc_1.20.1/.minecraft/versions/1.20.1-Forge_47.2.19/config/ProjectE/mapping.toml"
+    },
+    {
+      "fileUri": "file:///d%3A/mc_1.20.1/.minecraft/versions/1.20.1-Forge_47.2.19/config/ProjectE/client.toml"
+    },
+    {
+      "fileUri": "file:///d%3A/mc_1.20.1_next/.minecraft/versions/1.20.1-Forge_47.2.19/kubejs/server_scripts/example.js"
+    },
+    {
+      "fileUri": "file:///d%3A/mc_1.20.1_next/.minecraft/versions/1.20.1-Forge_47.2.19/logs/kubejs/client.log"
+    },
+    {
+      "fileUri": "file:///d%3A/mc_1.20.1_next/.minecraft/versions/1.20.1-Forge_47.2.19/kubejs/client_scripts/example.js"
+    },
+    {
+      "fileUri": "file:///d%3A/mc_1.20.1/PCL/Custom.xaml"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/blive-monitor/build/win-unpacked/logs/info.2024-01-04.log"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/blive-monitor/build/win-unpacked/resources/logs/info.2024-01-04.log"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/blive-monitor/build/win-unpacked/resources/app-update.yml"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/blive-monitor/build/win-unpacked/logs/maho.2023-12-28.log"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/blive-monitor/build/latest.yml"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Documents/PowerShell/profile.conda.proxy.ps1"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Documents/PowerShell/profile.conda.ps1"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Documents/PowerShell/profile.proxy.ps1"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Documents/PowerShell/profile.ps1"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/maho-danmaku/node_modules/.pnpm/%40vitejs%2Bplugin-vue%404.5.0_vite%404.5.0_vue%403.3.8/node_modules/%40vitejs/plugin-vue/dist/index.cjs"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/%E6%96%B0%E5%BB%BA%E6%96%87%E6%9C%AC%E6%96%87%E6%A1%A3%20%285%29.txt"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/maho-danmaku/src/components/List/SCList.vue"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/types/api.ts"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/socket.io%20%E7%9A%84%E6%B6%88%E6%81%AF%E7%B3%BB%E7%BB%9F.md"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/socket.io%20%E7%9A%84%E6%B6%88%E6%81%AF%E7%B3%BB%E7%BB%9F.txt"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/qqbot/.env"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/gensokyo/config.yml"
+    },
+    {
+      "fileUri": "file:///f%3A/Downloads/EosIconsLoading.vue"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/main.ts"
+    },
+    {
+      "fileUri": "file:///c%3A/Program%20Files/JetBrains/PyCharm%202022.1.1/bin/pycharm64.exe.vmoptions"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/otherside-wiki/otherside-wiki-api/app.js"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/sndvol.bat"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Downloads/%E7%BB%84%E5%90%88%201%20%281%29.svg"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Downloads/%E7%BB%84%E5%90%88%201.svg"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/s.svg"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/copy/main.js"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/otherside-wiki/otherside-wiki-web/src/views/tools/walletInventory/index.vue"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/otherside-wiki/otherside-wiki-web/src/hooks/api/item.get.js"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/.nrmrc"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/.gitconfig"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/.npmrc"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Untitled-1.txt",
+      "label": "C:\\Users\\Admin\\Untitled-1.txt"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/.condarc"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/so-vits-svc-4.1/README_zh_CN.md"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/cqhttp-msg-read/go-cqhttp/config.yml"
+    },
+    {
+      "fileUri": "file:///d%3A/byc_software/TVFISH%20Monitor/resources/config/layouts.json"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/tvfish-monitor/electron/server/package.json"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/tvfish-monitor/dist-electron/win-unpacked/resources/config/layouts.json"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/vits-simple-api/config.py"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/tvfish-monitor-master/resources/android/splash/cp.bat"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/tvfish-monitor-master/resources/android/splash/cd.txt"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/cqhttp-msg-read/vite.config.ts"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Documents/NetSarang%20Computer/7/Xftp/Temporary/docker-compose.yaml"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/cqhttp-msg-read/src/utils/voice.ts"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/cqhttp-msg-read/src/utils/message.ts"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/cqhttp-msg-read/src/App.vue"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Documents/NetSarang%20Computer/7/Xftp/Temporary/live-push-qq%20%5B4%5D.js"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Documents/NetSarang%20Computer/7/Xftp/Temporary/live-push-qq%20%5B3%5D.js"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Documents/NetSarang%20Computer/7/Xftp/Temporary/live-push-qq%20%5B2%5D.js"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Documents/NetSarang%20Computer/7/Xftp/Temporary/live-push-qq.js"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Documents/NetSarang%20Computer/7/Xftp/Temporary/config.yml"
+    },
+    {
+      "fileUri": "file:///c%3A/Program%20Files%20%28x86%29/Java/jre1.8.0_111/lib/i386/jvm.cfg"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/tvfish-monitor-master/dist/builder-debug.yml"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/tvfish-monitor-master/electron.js"
+    },
+    {
+      "fileUri": "file:///c%3A/test/dist/index.html"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/tv-fish/vite.config.ts"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/tvfish-electron/vite.config.ts"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/tvfish-electron/electron/main.ts"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/tvfish-electron/dist-electron/main.js"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/tv-fish-api/tvfish-api/src/bili/bili.service.ts"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/tvfish-monitor-master/src/components/player/slider.vue"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/UNO/UNO-server/src/index.ts"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/UNO/UNO-server/src/configs/card.ts"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/UNO/UNO-server/src/configs/index.ts"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/pnpm-lock.yaml"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/node-media-server/index.js"
+    },
+    {
+      "fileUri": "file:///d%3A/byc_software/windows_386_client/conf/multi_account.conf"
+    },
+    {
+      "fileUri": "file:///d%3A/byc_software/windows_386_client/conf/npc.conf"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/AppData/Local/Temp/close-to-save.yaml"
+    },
+    {
+      "fileUri": "file:///f%3A/BaiduNetdiskDownload/Thriving.City.Song.v0.5.16R.Steam/appmanifest_1956800.acf"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/stable-diffusion-webui2/configs/v1-inference.yaml"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/stable-diffusion-webui2/configs/instruct-pix2pix.yaml"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/stable-diffusion-webui2/configs/alt-diffusion-inference.yaml"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/stable-diffusion-webui2/webui.sh"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/proxy-server/index.js"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/otherside-wiki/otherside-wiki-web/dist/assets/.pnpm-2ce88cba.js"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Downloads/WgetCloud.yaml"
+    },
+    {
+      "fileUri": "file:///d%3A/byc_file/emoji/blsd.json"
+    },
+    {
+      "fileUri": "file:///d%3A/byc_file/emoji/hanser.json"
+    },
+    {
+      "fileUri": "file:///d%3A/byc_file/emoji/yousa.json"
+    },
+    {
+      "fileUri": "file:///d%3A/byc_file/emoji/asaki.json"
+    },
+    {
+      "fileUri": "file:///d%3A/byc_file/panel.json"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/test/test_two.js"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/code.md"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/code.mk"
+    },
+    {
+      "fileUri": "file:///d%3A/byc_software/QQNT/resources/app/app_launcher/launcher.js"
+    },
+    {
+      "fileUri": "file:///d%3A/byc_software/QQNT/resources/app/app_launcher/index.js"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/tv-fish/package.json"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/go-cqhttp-template/config.yml"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/go-cqhttp-template/src/app.js"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/test/test.js"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/test/index.js"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/new_project_test/app.js"
+    },
+    {
+      "fileUri": "file:///d%3A/byc_file/data.sql"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/main-2023-05-22%2013_50_48.sql"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/AppData/Local/Temp/close-to-save.javascript"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/start-run.bat"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/otherside-wiki/otherside-wiki-web/src/components/index/lastpSalesList.vue"
+    },
+    {
+      "fileUri": "file:///d%3A/Project/sbt_web/sbt_web/src/tools/axios.js"
+    },
+    {
+      "fileUri": "file:///d%3A/Project/sbt_web/sbt_web/src/config/api.js"
+    },
+    {
+      "fileUri": "file:///d%3A/Project/sbt_web/sbt_web/src/api/admin.js"
+    },
+    {
+      "fileUri": "file:///d%3A/Project/test/index.js"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/blurwatch/blurwatch_web/node_modules/.pnpm/%40vue%2Bcompiler-core%403.2.47/node_modules/%40vue/compiler-core/dist/compiler-core.cjs.js"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/blurwatch/%E3%80%81"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/AppData/Local/Programs/Microsoft%20VS%20Code/bin/code"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/stable-diffusion-webui2/webui.py"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/stable-diffusion-webui2/launch.py"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/stable-diffusion-webui2/modules/call_queue.py"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/stable-diffusion-webui2/webui-user.bat"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/stable-diffusion-webui2/webui-user.sh"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/stable-diffusion-webui/launch.py"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/train.py"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/so-vits-svc/train.py"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/config.yml"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Documents/NetSarang%20Computer/7/Xftp/Temporary/config%20%5B2%5D.yml"
+    },
+    {
+      "fileUri": "file:///d%3A/project_dir/so-vits-svc/app.py"
+    },
+    {
+      "fileUri": "file:///d%3A/NewProJectDir/rss_hub/RSSHub/docker-compose.yml"
+    },
+    {
+      "fileUri": "file:///d%3A/NewProJectDir/RSSHub/docker-compose.yml"
+    },
+    {
+      "fileUri": "file:///c%3A/Program1/bilibili/resources/app-update.yml"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/fragment/data.md"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/HelloWord-Keyboard/README.md"
+    },
+    {
+      "fileUri": "file:///d%3A/ED/1.18.2PaperSpigot%E6%9C%8D%E5%8A%A1%E7%AB%AF/server.properties"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/1.18.2Forge%E6%9C%8D%E5%8A%A1%E7%AB%AF%5Bforge-1.18.2-40.0.41%5D/1.18.2Forge%E6%9C%8D%E5%8A%A1%E7%AB%AF/server.properties"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/MikananiPhone/dist/assets/index.dd0bb42e.css"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/byc-home/byc-home-web-vue/README.md"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/byc-home/byc-home-web--try/README.md"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/byc-home/README.en.md"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/nft-cli/src/store/local/index.js"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/shop_demo_web3/store-server/storeDB.sql"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/shop_demo_web3/store-server/sql/product_picture.sql"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/shop_demo_web3/store-server/README.md"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/fantastic-admin/vite/plugins/setup-extend.js"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/fantastic-admin/vite/plugins/auto-import.js"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/nft_demo_old/.eslintrc.js"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/vue-candy-machine-ui-main-2/src/constants.js"
+    },
+    {
+      "fileUri": "file:///c%3A/Program%20Files/bilibili/vk_swiftshader_icd.json"
+    },
+    {
+      "fileUri": "file:///d%3A/JavaSpringBoot/apache-maven-3.8.4/conf/settings.xml"
+    },
+    {
+      "fileUri": "file:///d%3A/ED/LFANS/ELDEN%20RING/%E5%85%8Deac%20mod/settings.json"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/AppData/Local/Temp/360zip%24Temp/360%242/_variables.scss"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/boathouse-calculator/package.json"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/nft-cli/package.json"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/nft-cli/package-lock.json"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/nft-cli/babel.config.js"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/nft-cli/.eslintrc.js"
+    },
+    {
+      "fileUri": "file:///d%3A/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD/%E7%94%B5%E5%BD%B1/%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F3/vp-config.json"
+    },
+    {
+      "fileUri": "file:///d%3A/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD/%E7%94%B5%E8%A7%86%E5%89%A7/vp-config.json"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/jupyterlite/README.md"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/jupyterlite/RELEASE.md"
+    },
+    {
+      "fileUri": "file:///d%3A/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD/%E7%94%B5%E8%A7%86%E5%89%A7/%E9%87%8D%E7%94%9F%E4%B9%8B%E9%97%A8/vp-config.json"
+    },
+    {
+      "fileUri": "file:///d%3A/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD/%E7%94%B5%E5%BD%B1/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%9F%8E/vp-config.json"
+    },
+    {
+      "fileUri": "file:///d%3A/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD/%E7%94%B5%E5%BD%B1/vp-config.json"
+    },
+    {
+      "fileUri": "file:///d%3A/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD/%E7%94%B5%E5%BD%B1/%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F4/vp-config.json"
+    },
+    {
+      "fileUri": "file:///d%3A/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD/%E7%94%B5%E5%BD%B1/%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F3/config.json"
+    },
+    {
+      "fileUri": "file:///d%3A/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD/%E7%94%B5%E5%BD%B1/%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F4/config.json"
+    },
+    {
+      "fileUri": "file:///d%3A/phpstudy_pro/Extensions/Nginx1.15.11/conf/nginx.conf"
+    },
+    {
+      "fileUri": "file:///g%3A/%E7%95%AA%E5%89%A7/vp-config.json"
+    },
+    {
+      "fileUri": "file:///g%3A/%E7%94%B5%E5%BD%B1/vp-config.json"
+    },
+    {
+      "fileUri": "file:///g%3A/vp-config.json"
+    },
+    {
+      "fileUri": "file:///g%3A/pv-config.json"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/code/README.md"
+    },
+    {
+      "fileUri": "file:///d%3A/apache-maven-3.8.4/conf/settings.xml"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/AppData/Local/Temp/360zip%24Temp/360%241/settings.xml"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/vplayer-java/pom.xml"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/AppData/Local/Temp/360zip%24Temp/360%240/pom.xml"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/channels.json"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/3d%E6%97%8B%E8%BD%AC%E7%9B%B8%E5%86%8C/css/style.css"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/3d%E6%97%8B%E8%BD%AC%E7%9B%B8%E5%86%8C/%E5%A5%B3%E5%8F%8B.html"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/%E8%B7%9F%E9%9A%8F%E9%BC%A0%E6%A0%87%E5%8A%A8%E7%9A%84%E7%B2%92%E5%AD%90%E7%89%B9%E6%95%88/index.html"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/ntf_deom_newWallect/package.json"
+    },
+    {
+      "fileUri": "file:///d%3A/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD/Avengers.Infinity.War.2018.BluRay.1080p.x264.DTS-HD.MA.7.1-HDChina/config.json"
+    },
+    {
+      "fileUri": "file:///d%3A/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD/Avengers.Endgame.2019.1080p.BluRay.x264.TrueHD.7.1.Atmos-FGT/config.json"
+    },
+    {
+      "fileUri": "file:///d%3A/%E5%B0%8F%E7%B1%B3%E4%BA%91%E7%9B%98/%E6%96%87%E4%BB%B6%E8%B5%84%E6%96%99/%E6%B2%B9%E7%8C%B4/clear.js"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/nft_demo_old/vue.config.js"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/address_bscTestnet/init.initAddress.json"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/address_bscTestnet/ERC20Token.erc20TokenAddress.json"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/address_bscTestnet/LogicStorage.logicStorageAddress.json"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/address_bscTestnet/LogicCharacter.logicCharacter.json"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/address_bscTestnet/Nft.characterAddress.json"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/AppData/Local/Temp/360zip%24Temp/360%240/ERC20Token.erc20TokenAddress.json"
+    },
+    {
+      "fileUri": "file:///d%3A/ProjectDir/as-editor/package.json"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Downloads/particlesjs-config.json"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/AppData/Local/Temp/360zip%24Temp/360%245/package.json"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/%E5%BD%92%E6%A1%A3/axios.min.js"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/%E5%BD%92%E6%A1%A3/ethers-5.2.esm.min.js"
+    },
+    {
+      "fileUri": "file:///c%3A/Users/Admin/Desktop/%E5%BD%92%E6%A1%A3/index.html"
+    }
+  ]
+}
